@@ -23,13 +23,9 @@ This project is a fully interactive Tableau dashboard designed to explore and an
 - Ratings vary significantly by **country**, **traveler type**, and **seat class**.
 - Key areas for improvement: **Entertainment (1.4)** and **Cabin Staff Service (3.3)**.
 
-## 📁 Files Included
-- `British_Airways_Review.twbx` – Packaged Tableau Workbook
-- `dashboard_screenshot.png` – Visual overview of dashboard
-- `README.md` – This file
-- `BA_reviews.csv`
-- `countries.csv`
-
-
 ## 📸 Dashboard Preview  
-![Dashboard Preview](Dashboard 1.png)
+
+[![Dashboard Screenshot](Dashboard%201.png)](https://public.tableau.com/app/profile/antara.more/viz/Book3_17557342281470/Dashboard1)
+
+Link: https://public.tableau.com/app/profile/antara.more/viz/Book3_17557342281470/Dashboard1
+
