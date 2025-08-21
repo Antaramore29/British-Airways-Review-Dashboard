@@ -32,5 +32,4 @@ This project is a fully interactive Tableau dashboard designed to explore and an
 
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](<img width="1260" height="785" alt="Screenshot 2025-08-21 at 2 00 11 PM" src="https://github.com/user-attachments/assets/e530e6d9-de4f-4c75-82be-b90763b2d5de" />
-)
+![Dashboard Preview](Dashboard 1.png)
